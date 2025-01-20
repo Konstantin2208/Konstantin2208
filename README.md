@@ -2,7 +2,7 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/КонстантинАлександров/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thatguytiti/) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]() 
+[![LinkedIn](www.linkedin.com/in/konstantinaleksandrov)]() 
 
 ### GitHub Stats
 
